@@ -1,0 +1,4 @@
+https://data.seattle.gov/Built-Environment/Building-Energy-Benchmarking-Data-2015-Present/teqw-tu6e/about_data
+
+ENERGY STAR Score 
+https://www.energystar.gov/buildings/benchmark/understand-metrics/score-details
